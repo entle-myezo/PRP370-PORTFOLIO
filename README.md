@@ -71,7 +71,6 @@ Creating the Sprint Backlog forced our team to be realistic about what we could 
 
 **Evidence:**
 The following is an excerpt from our daily stand-ups and sprint retrospective:
-https://trello.com/invite/b/69f7546ec920bc93637c9b4e/ATTI0786147c7ede225e95bb606ee99cd591FB7D1E06/washtrack-logbook
 
 *   **Daily Stand-up (Day 3):**
     *   *What I did yesterday:* Conducted interviews with 8 residents at New Market Junction to validate the laundry point loss issue.
