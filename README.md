@@ -37,7 +37,7 @@ Writing these user stories helped me understand the bridge between business requ
 ## 3. Product Backlog
 
 **Evidence:**
-I utilized a Kanban board (Trello) to manage our Product Backlog. Because this is a phased project, I prioritized the features based on the MVP (Minimum Viable Product) requirements. Click here to view the live Trello Board
+I utilized a Kanban board (Trello) to manage our Product Backlog. Because this is a phased project, I prioritized the features based on the MVP (Minimum Viable Product) requirements. **[Click here to view the live Trello Board](https://trello.com/invite/b/69f7546ec920bc93637c9b4e/ATTI0786147c7ede225e95bb606ee99cd591FB7D1E06/washtrack-logbook)**
 
 *   **High Priority (Phase 1 MVP):** Real-time machine status, Fault reporting system.
 *   **Medium Priority (Phase 2 Integration):** Booking system for machine reservations, Push notifications.
