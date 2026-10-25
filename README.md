@@ -23,6 +23,7 @@ Creating the Agile Team Charter was a foundational step for the WASHTRACK projec
 
 **Evidence:**
 Based on our Business Case, I helped write the following User Stories for the WASHTRACK MVP:
+https://github.com/entle-myezo/PRP370-PORTFOLIO/blob/main/PRP372S_Business%20_Case_WASHTRACK%20(1).pdf
 
 *   **User Story 1:** As a student resident, I want to see the real-time status of washing machines (working, occupied, broken) so that I don't waste my limited laundry points on a broken machine.
     *   **Tasks:** Design database schema for machine status; Build front-end UI to display status; Write API endpoint to fetch status.
