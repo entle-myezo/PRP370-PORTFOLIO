@@ -1,4 +1,4 @@
-# PRP370 Portfolio - WASHTRACK Project
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/842ec32b-43f6-481f-adc1-9a3b01a6985b" /># PRP370 Portfolio - WASHTRACK Project
 **Student Name:** Entle Myezo 
 **Student Number:** 230076238 
 **Role:** Researcher / Agile Lead
@@ -39,6 +39,8 @@ Writing these user stories helped me understand the bridge between business requ
 
 **Evidence:**
 I utilized a Kanban board (Trello) to manage our Product Backlog. Because this is a phased project, I prioritized the features based on the MVP (Minimum Viable Product) requirements. 
+https://trello.com/invite/b/69f7546ec920bc93637c9b4e/ATTI0786147c7ede225e95bb606ee99cd591FB7D1E06/washtrack-logbook
+
 
 *   **High Priority (Phase 1 MVP):** Real-time machine status, Fault reporting system.
 *   **Medium Priority (Phase 2 Integration):** Booking system for machine reservations, Push notifications.
@@ -69,6 +71,7 @@ Creating the Sprint Backlog forced our team to be realistic about what we could 
 
 **Evidence:**
 The following is an excerpt from our daily stand-ups and sprint retrospective:
+https://trello.com/invite/b/69f7546ec920bc93637c9b4e/ATTI0786147c7ede225e95bb606ee99cd591FB7D1E06/washtrack-logbook
 
 *   **Daily Stand-up (Day 3):**
     *   *What I did yesterday:* Conducted interviews with 8 residents at New Market Junction to validate the laundry point loss issue.
