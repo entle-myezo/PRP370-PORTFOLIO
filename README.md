@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/842ec32b-43f6-481f-adc1-9a3b01a6985b" /># PRP370 Portfolio - WASHTRACK Project
+WASHTRACK Project
 **Student Name:** Entle Myezo 
 **Student Number:** 230076238 
 **Role:** Researcher / Agile Lead
@@ -12,7 +12,7 @@ Below is the breakdown of my contributions and reflections for each required sec
 ## 1. Agile Team Charter
 
 **Evidence:**
-I have uploaded the full Agile Team Charter document to this repository. As the Researcher and Agile Lead, I contributed to establishing our core values, working agreements, communication plans, and Definition of Done. https://github.com/entle-myezo/PRP370-PORTFOLIO/blob/main/WashTrack-Agile%20Team%20Charter_Submission%20(1).docx
+I have uploaded the full Agile Team Charter document to this repository. As the Researcher and Agile Lead, I contributed to establishing our core values, working agreements, communication plans, and Definition of Done. Click here to view the Agile Team Charter document
 
 **Reflection:**
 Creating the Agile Team Charter was a foundational step for the WASHTRACK project. I learned that an Agile charter is not just a static document, but a "living social contract" that aligns the team's daily execution. By defining clear working agreements—such as our response-time expectations and Kanban framework—I realized how crucial it is to establish boundaries early to prevent friction. Moving forward, I will use team charters in my professional career to ensure all stakeholders have a shared vision and understand their specific roles and responsibilities.
@@ -22,8 +22,7 @@ Creating the Agile Team Charter was a foundational step for the WASHTRACK projec
 ## 2. User Stories and Tasks
 
 **Evidence:**
-Based on our Business Case, I helped write the following User Stories for the WASHTRACK MVP:
-https://github.com/entle-myezo/PRP370-PORTFOLIO/blob/main/PRP372S_Business%20_Case_WASHTRACK%20(1).pdf
+Based on our Business Case, I helped write the following User Stories for the WASHTRACK MVP. Click here to view the full Business Case document
 
 *   **User Story 1:** As a student resident, I want to see the real-time status of washing machines (working, occupied, broken) so that I don't waste my limited laundry points on a broken machine.
     *   **Tasks:** Design database schema for machine status; Build front-end UI to display status; Write API endpoint to fetch status.
@@ -38,9 +37,7 @@ Writing these user stories helped me understand the bridge between business requ
 ## 3. Product Backlog
 
 **Evidence:**
-I utilized a Kanban board (Trello) to manage our Product Backlog. Because this is a phased project, I prioritized the features based on the MVP (Minimum Viable Product) requirements. 
-https://trello.com/invite/b/69f7546ec920bc93637c9b4e/ATTI0786147c7ede225e95bb606ee99cd591FB7D1E06/washtrack-logbook
-
+I utilized a Kanban board (Trello) to manage our Product Backlog. Because this is a phased project, I prioritized the features based on the MVP (Minimum Viable Product) requirements. Click here to view the live Trello Board
 
 *   **High Priority (Phase 1 MVP):** Real-time machine status, Fault reporting system.
 *   **Medium Priority (Phase 2 Integration):** Booking system for machine reservations, Push notifications.
