@@ -12,7 +12,7 @@ Below is the breakdown of my contributions and reflections for each required sec
 ## 1. Agile Team Charter
 
 **Evidence:**
-I have uploaded the full Agile Team Charter document to this repository. As the Researcher and Agile Lead, I contributed to establishing our core values, working agreements, communication plans, and Definition of Done. 
+I have uploaded the full Agile Team Charter document to this repository. As the Researcher and Agile Lead, I contributed to establishing our core values, working agreements, communication plans, and Definition of Done. https://github.com/entle-myezo/PRP370-PORTFOLIO/blob/main/WashTrack-Agile%20Team%20Charter_Submission%20(1).docx
 
 **Reflection:**
 Creating the Agile Team Charter was a foundational step for the WASHTRACK project. I learned that an Agile charter is not just a static document, but a "living social contract" that aligns the team's daily execution. By defining clear working agreements—such as our response-time expectations and Kanban framework—I realized how crucial it is to establish boundaries early to prevent friction. Moving forward, I will use team charters in my professional career to ensure all stakeholders have a shared vision and understand their specific roles and responsibilities.
