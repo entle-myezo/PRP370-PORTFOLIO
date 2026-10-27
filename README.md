@@ -63,7 +63,7 @@ For our first two-week sprint, we selected the highest-priority item from the Pr
     4. Write user testing documentation (Researcher)
 
 **Reflection:**
-Creating the Sprint Backlog forced our team to be realistic about what we could achieve in a short timeframe. As the Agile Lead, I learned that a sprint backlog must be actionable and owned by the team. By breaking the sprint down into daily tasks, we were able to track our velocity. I learned that if a sprint backlog is too ambitious, it leads to burnout. Therefore, we limited the sprint to only the most critical MVP tasks, which improved our delivery frequency.
+Creating the Sprint Backlog helped me understand how a broad product goal can be translated into a focused plan for a short development period. For Sprint 1, the team prioritised the machine-status feature, with tasks covering interface design, database preparation, API development, and user-testing documentation. As the Agile Lead, I learned that effective sprint planning requires the team to consider task dependencies, available time, and individual responsibilities. The live WASHTRACK demonstration includes the ability to view working and non-working machines, providing evidence of progress towards the project's core objective. However, I also recognise that a completed interface alone does not demonstrate that every planned task or feature has been completed. In future sprints, I would track task status more consistently and compare the planned work with the actual results during the sprint review.
 
 ---
 
